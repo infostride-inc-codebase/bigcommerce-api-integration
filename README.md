@@ -20,10 +20,10 @@ BIG Commerce API Integration
 
 ### Replace your BIG C Keys
 
-$shash = 'XXXXXXXXX'; //Replace your BIG C Hash Key
-$headers = array(
-	"Accept: application/json",
-	"X-Auth-Client: XXXXXXXXX", // Replace with your BIG C X-Auth-Client
-	"X-Auth-Token: XXXXXXXXX", // Replace with your BIG C X-Auth-Token
-	"Content-Type: application/json"
-);
+* $shash = 'XXXXXXXXX'; //Replace your BIG C Hash Key
+* $headers = array(
+	* "Accept: application/json",
+	* "X-Auth-Client: XXXXXXXXX", // Replace with your BIG C X-Auth-Client
+	* "X-Auth-Token: XXXXXXXXX", // Replace with your BIG C X-Auth-Token
+	* "Content-Type: application/json"
+* );
